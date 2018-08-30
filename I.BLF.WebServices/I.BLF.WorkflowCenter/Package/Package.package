@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="80f3e621-90b6-4c68-9f0a-c3d28914e7aa" solutionId="80f3e621-90b6-4c68-9f0a-c3d28914e7aa" resetWebServer="false" sharePointProductVersion="15.0" name="I.BLF.WorkflowCenter" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="74f20fa2-762b-4708-b134-c5f36b5a8692" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="488e4971-598c-4ec6-904b-62a84e87c4e5" />
+  </projectItems>
+</package>
